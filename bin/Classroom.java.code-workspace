@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "C:/Users/ishik/OneDrive/Desktop/HTML"
+		},
+		{
+			"path": "../../HTML"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src",
+			"Practice"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
