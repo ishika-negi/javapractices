@@ -25,5 +25,6 @@ public class firstnonrepeating{
     public static void main(String[] args) {
         String str="aabccxb";
         printnonrepeating(str);
+        
     }
 }
